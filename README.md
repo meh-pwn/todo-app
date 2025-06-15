@@ -1,8 +1,13 @@
-# Todo App
+# Todo App: js task manager app
 
-A simple task management app with the ability to add, mark as done, search and delete tasks.
+## Preview
 
 ![Todo App Preview](img/todo_app_example.png)
+
+## Description
+A simple task management app with the ability to add, mark as done, search and delete tasks.
+This is a project for
+<pre> https://roadmap.sh/projects/task-tracker-js </pre>
 
 ## Features
 
@@ -39,7 +44,7 @@ todo-app/
 ```bash
 git clone https://github.com/meh-pwn/todo-app.git
 ```
-2.Open "index.html" in your browser.
+2.  Open "index.html" in your browser.
 
 ## License
 
