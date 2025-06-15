@@ -21,6 +21,7 @@ A simple task management app with the ability to add, mark as done, search and d
 
 ## Project structure
 
+```plaintext
 todo-app/
 ├── index.html          # Main page
 ├── style.css          # Application styles
@@ -30,6 +31,7 @@ todo-app/
 ├── img/
 │   └── todo_app_example.png # Screenshot (optional)
 └── README.md          # This file
+```
 
 ## Installation and Usage
 
